@@ -1,1 +1,1 @@
-# kitty-conf-
+# Kitty terminal Configuration 
